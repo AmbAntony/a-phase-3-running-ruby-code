@@ -139,7 +139,7 @@ $ ruby app.rb
 [1, 2, 3]
 ```
 
-Ruby has one more method, `pp`, for "pretty-printing" complex data, such as
+Ruby hdas one more method, `pp`, for "pretty-printing" complex data, such as
 nested arrays and hashes (the Ruby equivalent of a JavaScript object):
 
 ```rb
